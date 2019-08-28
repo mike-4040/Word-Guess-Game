@@ -1,4 +1,5 @@
 # Word-Guess-Game
+<<<<<<< HEAD
 UCSD Coda Camp JavaScript Assignment
 
 Rules of the game:
@@ -14,3 +15,6 @@ Rules of the game:
 6. Guesses Left: (# of guesses left. This will update)
 
 7. Your Guesses So Far: the specific letters that the user typed.
+=======
+UCSD Code Camp JavaScript Assignment
+>>>>>>> 56d1349cc53f2bb4aa027fd47a49d76b6e5bf157
