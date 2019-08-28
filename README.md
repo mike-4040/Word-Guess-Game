@@ -1,2 +1,2 @@
 # Word-Guess-Game
-UCSD Coda Camp JavaScript Assignment
+UCSD Code Camp JavaScript Assignment
