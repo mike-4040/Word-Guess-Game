@@ -1,5 +1,4 @@
-# Word-Guess-Game
-<<<<<<< HEAD
+Word-Guess-Game
 UCSD Coda Camp JavaScript Assignment
 
 Rules of the game:
@@ -8,13 +7,10 @@ Rules of the game:
 
 2. Meaning of fiels on the screen:
 
-4. Wins: (# of times the user has guessed the letter correctly)
+  Wins: # of times the user has guessed the letter correctly.
 
-5. Losses: (# of times the user has failed to guess the letter correctly after exhausting all guesses)
+  Losses: # of times the user has failed to guess the letter correctly after exhausting all guesses.
 
-6. Guesses Left: (# of guesses left. This will update)
+  Guesses Left: # of guesses left.
 
-7. Your Guesses So Far: the specific letters that the user typed.
-=======
-UCSD Code Camp JavaScript Assignment
->>>>>>> 56d1349cc53f2bb4aa027fd47a49d76b6e5bf157
+  Your Guesses So Far: the specific letters that the user typed.
