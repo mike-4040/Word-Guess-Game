@@ -14,3 +14,5 @@ Rules of the game:
   Guesses Left: # of guesses left.
 
   Your Guesses So Far: the specific letters that the user typed.
+  
+Play the game at https://mike-4040.github.io/Word-Guess-Game/ 
