@@ -1,4 +1,4 @@
-# Word Guess Game
+# The Psychic Game
 UCSD Coda Camp JavaScript Assignment
 
 ## Learning
