@@ -1,7 +1,12 @@
-Word-Guess-Game
+# Word Guess Game
 UCSD Coda Camp JavaScript Assignment
 
-Rules of the game:
+## Learning
+- Plain HTML + JS.
+- Direct DOM manipulation.
+- Deployment with GitPages.
+
+# Rules of the game
 
 1. The app randomly picks a letter, and the user has to guess which letter the app chose.
 
