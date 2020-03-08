@@ -1,5 +1,5 @@
 # The Psychic Game
-UCSD Coda Camp JavaScript Assignment
+UCSD Code Camp JavaScript Assignment
 
 ## Learning
 - Plain HTML + JS.
